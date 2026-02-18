@@ -4,7 +4,7 @@
     "jsx": "react", // Specifies the JSX mode
     "module": "commonjs",
     "target": "es2016",
-    "checkJs": true // Enables semantic checks for JavaScript files
+    "checkJs": true // Enable semantic checks in JavaScript files
   },
   "include": ["**/*.js", "**/*.jsx", "**/*.ts", "**/*.tsx"],
   "exclude": ["node_modules", "**/node_modules/*"]
